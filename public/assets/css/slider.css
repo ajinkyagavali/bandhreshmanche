@@ -1,0 +1,34 @@
+.slider {
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+ 
+    /* DON'T CHANGE THESE */
+    position: relative;
+    overflow: hidden;
+}
+ 
+.slide {
+    /* DON'T CHANGE THESE */
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+ 
+/** ONLY FOR STYLING THE EXAMPLE SLIDES */
+.slide p {
+    color: #FFF;
+    text-align: center;
+}
+ 
+.red {
+    background: red;
+}
+ 
+.blue {
+    background: blue;
+}
+ 
+.green {
+    background: green;
+}
